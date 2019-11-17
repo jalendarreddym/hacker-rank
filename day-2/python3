@@ -10,7 +10,7 @@ The first line has a double,MealCost(the cost of the meal before tax and tip).
 The second line has an integer, tipPercentage (the percentage of MealCost being added as tip).
 The third line has an integer, taxPercentage (the percentage ofMealCOst  being added as tax).
 ***************************************************************************************************************************************************
-NOTE:- This is the code for day-3 in python3
+NOTE:- This is the code for day-2 in python3
 *************************************************************************************************************************************************
 #!/bin/python3
 
